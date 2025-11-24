@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: userService
+
+  profiles:
+    active: prod
+
+server:
+  port: 8082
+
+
+
+
+
